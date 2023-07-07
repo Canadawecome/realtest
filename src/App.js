@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { PowerBIEmbed } from 'powerbi-client-react';
-import { models } from 'powerbi-client';
+
 
 
 function App() {
